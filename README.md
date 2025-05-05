@@ -30,7 +30,7 @@ It’s your **second brain**, but built your way.
 ## ✨ Features
 
 
--  **Live Markdown Editor**
+- ✍️  **Live Markdown Editor**                                                                            
   Write notes using markdown and see them instantly rendered in-place.
   
 - ✍️ **Markdown Note Support**
