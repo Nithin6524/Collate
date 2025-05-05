@@ -30,10 +30,10 @@ It’s your **second brain**, but built your way.
 ## ✨ Features
 
 
-- ✍️ **Live Markdown Editor**
+-  **Live Markdown Editor**
   Write notes using markdown and see them instantly rendered in-place.
   
-- ✍️ **Markdown Note Support**  
+- ✍️ **Markdown Note Support**
   Write in simple `.md` files with headings, code, lists, and more.
   
 - 🏷️ **Tag-Based Organization**  
