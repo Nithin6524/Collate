@@ -49,25 +49,26 @@ It’s your **second brain**, but built your way.
 - 📚 **Spaced Review System** *(Planned)*  
   Surface notes periodically to help you remember what you wrote.
 
+---
 
-🚀 Getting Started
-**1. Clone the Repository**
-First, clone the repository to your local machine:
+## 🚀 Getting Started
+- **1. Clone the Repository**
+  First, clone the repository to your local machine:
+  
+  git clone https://github.com/Nithin6524/Collate.git
+  cd thoughtbase
 
-git clone https://github.com/Nithin6524/Collate.git
-cd thoughtbase
+- **2. Install Dependencies**
+  Install the necessary dependencies using npm:
+  
+  **npm install**
 
-**2. Install Dependencies**
-Install the necessary dependencies using npm:
+- **3. Start the Development Server**
+  Run the app in development mode:
+  
+  **npm start**
 
-**npm install**
-
-3. Start the Development Server
-Run the app in development mode:
-
-**npm start**
-
-This will start the development server, and you should be able to access the app by visiting http://localhost:3000 (or another port, depending on your setup).
+  This will start the development server, and you should be able to access the app by visiting http://localhost:3000 (or another port, depending on your setup).
 
 
 
