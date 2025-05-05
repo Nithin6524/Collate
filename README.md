@@ -32,8 +32,7 @@ It’s your **second brain**, but built your way.
 - ✍️ **Markdown Note Support**  
   Write in simple `.md` files with headings, code, lists, and more.
   
-- ✍️ **Live Markdown Editor**
-  
+- ✍️ **Live Markdown Editor** 
   Write notes using markdown and see them instantly rendered in-place.
 
 - 🏷️ **Tag-Based Organization**  
